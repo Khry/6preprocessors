@@ -1,0 +1,14 @@
+@import "variables1";
+@import "main";
+body #content 
+  h2 {
+    font-style: italic; }
+  table{
+  	width: 800px;
+  	th{
+  		border-right: 1px solid $contentBackground;
+  	}
+  }
+  .brief{
+  	//background-color: lighten( $bodyColor, 20%)
+  }

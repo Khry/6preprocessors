@@ -1,0 +1,18 @@
+@import "variables2";
+@import "main";
+body #content {
+	color: $contentColor;
+	h1{
+		margin-top: 10px;}
+ 	img{
+ 		padding: 10px;
+ 		border-width: 1px;}
+ 	.brief{
+ 		width: 920px;}
+	table{
+		caption{
+			font-size: 15px;}
+		td{
+			background-color: $briefColor;}
+	}
+}

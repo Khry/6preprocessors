@@ -1,0 +1,9 @@
+$bodyFont: normal 15px/20px Georgia, "Times New Roman", Times, serif;
+$bodyColor: #71981F;
+$contentBackground: #660;
+$contentColor: #fff;
+$headingColor:  #FFCC00;
+$linkColor: $headingColor;
+$fotoBorder: $contentColor;
+$briefColor: mix($contentBackground, $bodyColor, 50%);
+$tableThColor: mix($briefColor, $contentColor, 60%);;

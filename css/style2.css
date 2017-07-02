@@ -1,0 +1,66 @@
+body {
+  background-color: #71981F;
+  font: normal 15px/20px Georgia, "Times New Roman", Times, serif; }
+  body #content {
+    width: 960px;
+    margin: 0 auto;
+    background: #660;
+    padding: 30px; }
+    body #content h1 {
+      margin-top: 5px;
+      color: #FFCC00; }
+    body #content h2 {
+      color: #FFCC00;
+      margin-top: 40px;
+      font-weight: normal; }
+    body #content a {
+      color: #FFCC00; }
+    body #content img {
+      padding: 3px;
+      border: 2px solid #fff; }
+    body #content .img-left {
+      float: left;
+      margin: 5px 20px 20px 0; }
+    body #content .brief {
+      float: left;
+      margin: 5px 20px 20px 0;
+      padding: 20px;
+      line-height: 14px;
+      width: 300px;
+      background-color: #6c7f10;
+      font-style: italic; }
+    body #content .img-right {
+      float: right;
+      margin: 5px 0px 20px 20px; }
+    body #content table {
+      border-collapse: collapse;
+      text-align: left; }
+      body #content table caption {
+        display: table-caption;
+        text-align: right;
+        padding: 10px;
+        font-style: italic;
+        font-size: 1.2em; }
+      body #content table th, body #content table td {
+        padding: 10px 20px; }
+      body #content table th {
+        background-color: #a7b270;
+        font-weight: normal; }
+      body #content table td {
+        border-bottom: 1px solid #a7b270; }
+
+body #content {
+  color: #fff; }
+  body #content h1 {
+    margin-top: 10px; }
+  body #content img {
+    padding: 10px;
+    border-width: 1px; }
+  body #content .brief {
+    width: 920px; }
+  body #content table caption {
+    font-size: 15px; }
+  body #content table td {
+    background-color: #6c7f10; }
+
+/*# sourceMappingURL=style2.css.map */
